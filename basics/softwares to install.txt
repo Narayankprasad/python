@@ -1,0 +1,11 @@
+1. Python 3.6.0   : https://www.python.org/ftp/python/3.6.0/python-3.6.0rc2-amd64-webinstall.exe
+2. IDE : Pycharm  : https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+3. Gitbash		  : https://git-scm.com/download/win
+4. Github  - Web account : https://github.com/
+5. Clould : AWS  - Web account  : https://aws.amazon.com
+6. Virtualization : Vmware Workstation 12.0 , Fusion & Oracle Virtualbox(https://www.virtualbox.org/wiki/Downloads)
+7. Linux Operating System : Distribution : CENTOS 7.0 64bit (http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1708.iso)
+8. Notepad++		:  https://notepad-plus-plus.org/repository/7.x/7.5.3/npp.7.5.3.Installer.exe
+9. Putty			: https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
+10. WinScp 			:  https://cdn.winscp.net/files/WinSCP-5.11.3-Setup.exe?secure=kDvyYXnJ-KWSpHTJrxuXKw==,1513826453
+11. Sublime			: https://www.sublimetext.com/3
