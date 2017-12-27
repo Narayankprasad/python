@@ -1,0 +1,22 @@
+github credentials
+
+Narayankprasad/github@4545
+
+pwd-present working directory
+----------------------------------------------------------------------
+git config --global user.name "Narayankprasad"
+git config --global user.email "narayankprasad@gmail.com"
+git clone https://github.com/Narayankprasad/python.git
+------------------------------------------------------------------------
+ls -lrta python
+\
+how to copy from 1 repository to other repository
+
+cp -pvr /sourcefile/ destinationfile
+
+git status
+git add */git add basics/git add .
+git status
+git commit -m "commit" *
+git status
+git push -u origin master
